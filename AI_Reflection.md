@@ -1,4 +1,4 @@
-I used ChatGPT as an AI tool to help me understand the assignment instructions, plan my programs, and review my C++ code. I used it to understand selection statements, BMI classification conditions, character arrays, and the strcmp() function. I also used it to organize my README file and identify the different tests required by the assignment.
+I used ChatGPT as an AI tool to help me plan my programs and review my C++ code. I used it to understand selection statements, BMI classification conditions, character arrays, and the strcmp() function. I also used it to organize my README file and identify the different tests required by the assignment.
 
 One programming decision I learned about was using strcmp() instead of == when comparing character arrays. I also learned to check whether both color inputs are valid before attempting to mix them. For the BMI program, I used an if, else if, and else structure so that the BMI categories include all the required ranges.
 
